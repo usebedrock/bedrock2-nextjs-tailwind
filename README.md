@@ -1,4 +1,4 @@
-# Bedrock 2 - Vue.js
+# bedrock2-nextjs-tailwind
 
 This repo implements [Bedrock 2](https://gist.github.com/Wolfr/38a6495eba18a2327d0d012dcc9a974b).
 
@@ -27,6 +27,5 @@ This repo implements [Bedrock 2](https://gist.github.com/Wolfr/38a6495eba18a2327
     $ npm run start
 
 For detailed explanation on how things work, check out [Next.js docs](https://nextjs.org/).
-# bedrock2-next-tailwind
-# bedrock2-nextjs-tailwind
-# bedrock2-nextjs-tailwind
+
+
