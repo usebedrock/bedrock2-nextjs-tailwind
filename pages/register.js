@@ -5,7 +5,9 @@ export default function Page() {
   return (
     <>
       <div className="space-y-12">
-        <p>Main template here.. page 1</p>
+
+        <p>Main template here.. page 2</p>
+
         <Button>I am a button example</Button>
       </div>
 
