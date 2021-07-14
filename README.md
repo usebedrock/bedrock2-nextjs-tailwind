@@ -2,17 +2,21 @@
 
 This repo implements [Bedrock 2](https://gist.github.com/Wolfr/38a6495eba18a2327d0d012dcc9a974b).
 
-- [ ] Page tree hide/show
-- [ ] Automated page tree
-- [ ] Style guide
+- [x] Page tree hide/show
+- [ ] Style guide route
+    - [ ] Show a component
+    - [ ] Show a component per category
+    - [ ] Show component code using entities
+    - [ ] Toggle component code
+    - [ ] Show component code highlighted using a library like Prism
 - [ ] Multiple SCSS files
 - [ ] PostCSS support
 - [ ] Page states
-- [ ] Color listing
-- [ ] Typography listing
-- [ ] Icon listing
-- [ ] Component code
-- [ ] Code syntax highlighting
+- [ ] Design tokens
+    - [ ] Color listing
+    - [ ] Typography listing
+    - [ ] Icon listing
+- [ ] Automated page tree (automatically capture new routes)
 
 ## Build Setup
 
